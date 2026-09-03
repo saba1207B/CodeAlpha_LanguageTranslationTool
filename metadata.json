@@ -1,0 +1,6 @@
+{
+  "name": "AI Language Translation Tool",
+  "description": "A modern, responsive AI-powered language translation tool supporting English, Tamil, Hindi, Malayalam, Telugu, Kannada, French, German, Spanish, Japanese, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
